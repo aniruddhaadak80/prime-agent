@@ -1,0 +1,1 @@
+- Fixed the Z.AI provider default resolving to an id removed from the upstream catalog, which silently fell back to an outdated model.
