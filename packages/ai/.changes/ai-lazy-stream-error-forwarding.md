@@ -1,0 +1,1 @@
+- Fixed a provider stream that throws mid-request crashing the process and hanging the caller, instead of reporting a terminal error that keeps the content streamed so far.
